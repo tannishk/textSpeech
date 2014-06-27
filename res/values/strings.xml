@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">textSpeech</string>
+    <string name="hello_world">Enter Kid Name</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
